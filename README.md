@@ -26,7 +26,7 @@ C#, Java, Sql
 __Faculty of Organizational Sciences, *Informational System and Technologies, bachelor with honors*__
 
 *2003 / 2007*
-__Electrotechnical High school "Nikola Tesla", *IT technician*__
+Electrotechnical High school "Nikola Tesla", *IT technician*
 
 ## Language
 
