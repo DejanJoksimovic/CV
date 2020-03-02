@@ -1,12 +1,7 @@
----
-layout: cv
-title: Dejan Joksimovic's CV
----
 # Dejan Joksimovic
 
 <div id="webaddress">
 <a href="joksimovic_d@yahoo.com">joksimovic_d@yahoo.com</a>
-
 
 ## Work experience
 
@@ -27,10 +22,10 @@ C#, Java, Sql
 
 ## Education
 
-`2007 / 2013`
+*2007 / 2013*
 __Faculty of Organizational Sciences, *Informational System and Technologies, bachelor with honors*__
 
-`2003 / 2007`
+*2003 / 2007*
 __Electrotechnical High school "Nikola Tesla", *IT technician*__
 
 ## Language
