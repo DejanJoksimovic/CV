@@ -1,7 +1,5 @@
 # Dejan Joksimovic
-
-<!-- <div id="webaddress">
-<a href="joksimovic_d@yahoo.com">joksimovic_d@yahoo.com</a> -->
+joksimovic_d@yahoo.com
 
 ## Work experience
 
