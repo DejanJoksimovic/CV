@@ -6,7 +6,7 @@
 ## Work experience
 
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
-* project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / up to date* - `Javascript, React, Redux, Visual Studio Code, Eslint`
+* project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / up to date* - `Javascript, React, Redux, Hooks, Visual Studio Code, Eslint`
 * project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs
 
 Saga - Frontend Developer *May 2013 / Jun 2017*
@@ -30,6 +30,12 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 
 ## Language
 
-`English fluent`
+* `English fluent`
 
-Serbian native
+* Serbian native
+
+## Additional
+
+* Interviewer for Frontend candidates in Endava: *2019 - up to date*
+* Mentorship in Saga and Endava (more then 10 people in total)
+* Meetup presentation "How to boost your Frontend development using Fake apis" *March 26 2020*
