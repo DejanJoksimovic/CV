@@ -1,6 +1,8 @@
 # Dejan Joksimovic
-joksimovic_d@yahoo.com
-
+* joksimovic_d@yahoo.com
+* Date of birth: *March 31 1988*
+* 063/434-047
+* Born and live in Belgrade, Serbia
 ## Work experience
 
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
@@ -35,5 +37,9 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 ## Additional
 
 * Interviewer for Frontend candidates in Endava: *2019 - up to date*
-* Mentorship in Saga and Endava (more then 10 people in total)
+* Mentorship in Saga and Endava (more then 15 people in total)
+* Leader of Belgrade Endava Frontend Community
 * Meetup presentation "How to boost your Frontend development using Fake apis" *March 26 2020*
+* Father
+* Playing 6, 7 and 8 string guitars (by my custom design) and composing extreme heavy metal
+* Filmophile
