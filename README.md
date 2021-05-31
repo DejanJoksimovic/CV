@@ -3,6 +3,7 @@
 * Date of birth: *March 31 1988*
 * 063/434-047
 * Born and live in Belgrade, Serbia
+
 ## Work experience
 
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
