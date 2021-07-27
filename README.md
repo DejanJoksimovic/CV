@@ -40,7 +40,9 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Interviewer for Frontend candidates in Endava: *2019 - up to date*
 * Mentorship in Saga and Endava (more then 15 people in total)
 * Leader of Belgrade Endava Frontend Community
+* Event coordinator for multiple Community events
 * Meetup presentation "How to boost your Frontend development using Fake apis" *March 26 2020*
+* Framework trainer for client developers *March 26 2016*
 * Father
 * Playing 6, 7 and 8 string guitars (by my custom design) and composing extreme heavy metal
 * Filmophile
