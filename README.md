@@ -4,7 +4,7 @@
 ## Work experience
 
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
-* project (...): *2022 / up to date* - `Javascript, React, Redux, Hooks, ... Visual Studio Code, Eslint` - Dev, Line Manager
+* project (...): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, ... Visual Studio Code, Eslint` - Dev, Line Manager
 * project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` - Dev, Team Lead (from 2020)
 * project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs - Dev
 
@@ -38,10 +38,11 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Interviewer for Frontend candidates in Endava: *2019 - up to date*
 * Mentorship in Saga and Endava (more then 15 people in total)
 * Leader of Belgrade Endava Frontend Community
-* Event coordinator for multiple FE Community events
+    * Event coordinator for multiple FE Community events
+    * Training
 * Presentation
     * "How to boost your Frontend development using Fake apis" *March 2020*
-    * "React optimizations introduction" *April 2022*
+    * "React optimizations introduction" *May 2022*
 * Framework trainer for client developers *March 2016*
 * Father of two
 * Playing 6, 7 and 8 string guitars (by my custom design) and composing extreme heavy metal
