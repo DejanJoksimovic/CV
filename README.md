@@ -1,11 +1,12 @@
 # Dejan Joksimovic
 * joksimovic_d@yahoo.com
+* [LinkedIn](https://www.linkedin.com/in/dejan-joksimovi%C4%87-60a95782/)
 
 ## Work experience
 
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
-* project (...): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, ... Visual Studio Code, Eslint` - Dev, Line Manager
-* project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` - Dev, Team Lead (from 2020)
+* Adobe project (various plugins for customer products using external APIs): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` - Dev, Line Manager
+* Adobe project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` - Dev, Team Lead (from 2020)
 * project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs - Dev
 
 Saga - Frontend Developer *May 2013 / Jun 2017*
@@ -40,10 +41,10 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Leader of Belgrade Endava Frontend Community
     * Event coordinator for multiple FE Community events
     * Training
-* Presentation
-    * "How to boost your Frontend development using Fake apis" *March 2020*
-    * "React optimizations introduction" *May 2022*
+* Presentations:
+    * "How to boost your Frontend development using Fake apis" *March 2020* - Endava DevWeek
+    * "React optimizations introduction" *May 2022* - CODEstantine 6
 * Framework trainer for client developers *March 2016*
 * Father of two
-* Playing 6, 7 and 8 string guitars (by my custom design) and composing extreme heavy metal
+* Playing 6 and 7 string guitars and composing extreme heavy metal
 * Filmophile
