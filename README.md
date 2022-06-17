@@ -38,7 +38,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 
 * Interviewer for Frontend candidates in Endava: *2019 - up to date*
 * Mentorship in Saga and Endava (more then 20 people in total)
-* Leader of Belgrade Endava Frontend Community - event coordinator for multiple FE Community events, presenter, organizer, trainer.
+* Leader of Belgrade Endava Frontend Community - FE Community events - presenter, organizer, trainer.
 * Presentations:
     * "How to boost your Frontend development using Fake apis" *March 2020* - Endava DevWeek
     * "React optimizations introduction" *May 2022* - CODEstantine 6
