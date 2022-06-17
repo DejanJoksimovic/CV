@@ -7,7 +7,7 @@
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
 * Adobe project (various plugins for customer products using external APIs): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` - Dev, Line Manager
 * Adobe project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` - Dev, Team Lead (from 2020)
-* project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs - Dev
+* Adobe project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs - Dev
 
 Saga - Frontend Developer *May 2013 / Jun 2017*
 * project National Agency for Employment (single page application, lightweight, using REST api, CRUD forms and views): *2016 / 2017* - Javascript, React, Redux, Visual Studio Code, Flow, Eslint - Dev
@@ -37,10 +37,8 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 ## Additional
 
 * Interviewer for Frontend candidates in Endava: *2019 - up to date*
-* Mentorship in Saga and Endava (more then 15 people in total)
-* Leader of Belgrade Endava Frontend Community
-    * Event coordinator for multiple FE Community events
-    * Training
+* Mentorship in Saga and Endava (more then 20 people in total)
+* Leader of Belgrade Endava Frontend Community - event coordinator for multiple FE Community events, presenter, organizer, trainer.
 * Presentations:
     * "How to boost your Frontend development using Fake apis" *March 2020* - Endava DevWeek
     * "React optimizations introduction" *May 2022* - CODEstantine 6
