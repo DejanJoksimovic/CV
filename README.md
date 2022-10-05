@@ -5,7 +5,7 @@
 ## Work experience
 
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
-* Adobe project (various plugins for customer products using external APIs): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` - Dev, Line Manager
+* Adobe project (various plugins for customer products using external APIs): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` - Dev, `Line Manager, Tech Lead`
 * Adobe project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` - Dev, Team Lead (from 2020)
 * Adobe project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs - Dev
 
@@ -42,6 +42,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Presentations:
     * "How to boost your Frontend development using Fake apis" *March 2020* - Endava DevWeek
     * "React optimizations introduction" *May 2022* - CODEstantine 6
+* React trainer for "Forum Of Young Disabled People" *September 2022*
 * Framework trainer for client developers *March 2016*
 * Father of two
 * Playing 6 and 7 string guitars and composing extreme heavy metal
