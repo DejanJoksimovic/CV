@@ -36,7 +36,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 
 ## Additional
 
-* Interviewer for Frontend candidates in Endava: *2019 - up to date*
+* Interviewer for Frontend candidates in Endava: *2019 - up to date* (more than 30 interviews)
 * Mentorship in Saga and Endava (more than 20 people in total)
 * Leader of Belgrade Endava Frontend Community - FE Community events - presenter, organizer, trainer.
 * Speaker at conferences:
