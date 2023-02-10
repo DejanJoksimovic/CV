@@ -42,11 +42,11 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Speaker at conferences:
     * "How to boost your Frontend development using Fake apis" *March 2020* - Endava DevWeek
     * "React optimizations introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
-* React trainer for "Forum Of Young Disabled People" *September 2022*
+* React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
 * Attended at various conferences. e.g.
-   * Armada JS 2022 Novi Sad
-   * CODEstantine 6 2022 Nis
+   * [Armada JS 2022](https://armada-js.com/) Novi Sad
+   * [CODEstantine 6 2022](https://codestantine.com/codestantine-6/) Nis 
 * Father of two
 * Playing 6 and 7 string guitars and composing extreme heavy metal
 * Filmophile
