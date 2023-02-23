@@ -5,14 +5,14 @@
 ## Work experience
 
 Endava - Senior Frontend Developer *Jun 2017 / up to date*
-* Adobe project (various plugins for customer products using external APIs): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` - Dev, `Line Manager, Tech Lead`
-* Adobe project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` - Dev, Team Lead (from 2020)
-* Adobe project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs - Dev
+* Adobe project (various plugins for customer products using external APIs): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` <b>- Dev, `Line Manager, Tech Lead`</b>
+* Adobe project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` <b>- Dev, Team Lead (from 2020)</b>
+* Adobe project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs <b>- Dev</b>
 
 Saga - Frontend Developer *May 2013 / Jun 2017*
-* project National Agency for Employment (single page application, lightweight, using REST api, CRUD forms and views): *2016 / 2017* - Javascript, React, Redux, Visual Studio Code, Flow, Eslint - Dev
+* project National Agency for Employment (single page application, lightweight, using REST api, CRUD forms and views): *2016 / 2017* - Javascript, React, Redux, Visual Studio Code, Flow, Eslint <b>- Dev</b>
 * project State Pension Fund (CRUD forms and views): *2015 / 2016* - ADF Framework, Java, JDeveloper, Oracle Database Management System - Dev
-* project New Transit Customs System (single page application, using REST api, CRUD forms and views): *2013 - 2014* - .NET, C#, Visual Studio, SQLServer, Microsoft Silverlight - Dev
+* project New Transit Customs System (single page application, using REST api, CRUD forms and views): *2013 - 2014* - .NET, C#, Visual Studio, SQLServer, Microsoft Silverlight <b>- Dev</b>
 
 ### Computer Skills
 * Working knowledge and main interests: 
