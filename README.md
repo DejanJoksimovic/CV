@@ -16,9 +16,7 @@ Saga - Frontend Developer *May 2013 / Jun 2017*
 
 ### Computer Skills
 * Working knowledge and main interests: 
-`Javascript, React, Redux, Visual Studio Code`
-* Some experience and familiar with:
-C#, Java, Sql
+`Javascript, Web, React, Redux, Visual Studio Code`
 
 ## Education
 
