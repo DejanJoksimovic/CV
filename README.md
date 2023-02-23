@@ -50,3 +50,4 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Father of two
 * Playing 6 and 7 string guitars and composing extreme heavy metal
 * Filmophile
+* proper touch typing ~50wpm
