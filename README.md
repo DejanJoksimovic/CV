@@ -4,8 +4,11 @@
 
 ## Work experience
 
-Endava - Senior Frontend Developer *Jun 2017 / up to date*
-* Adobe project (various plugins for customer products using external APIs): *2022 / up to date* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` <b>- Dev, `Line Manager, Tech Lead`</b>
+United.Cloud - Senior Javascript developer *April 2023 / up to date*
+* project (streaming service application): *2023 / up to date* - `Javascript, Vue, Vuex` <b>- Dev</b>
+
+Endava - Senior Frontend Developer *Jun 2017 / April 2023*
+* Adobe project (various plugins for customer products using external APIs): *2022 / 2023* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` <b>- Dev, `Line Manager, Tech Lead`</b>
 * Adobe project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` <b>- Dev, Team Lead (from 2020)</b>
 * Adobe project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs <b>- Dev</b>
 
@@ -34,9 +37,9 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 
 ## Additional
 
-* Interviewer for Frontend candidates in Endava: *2019 - up to date* (more than 30 interviews)
+* Interviewer for Frontend candidates in Endava: *2019 - 2023* (more than 30 interviews)
 * Mentorship in Saga and Endava (more than 20 people in total)
-* Leader of Belgrade Endava Frontend Community - FE Community events - presenter, organizer, trainer.
+* Founder and leader of Belgrade Endava Frontend Community: *2020 - 2023* - FE Community events - presenter, organizer, trainer.
 * Speaker at conferences:
     * "How to boost your Frontend development using Fake apis" *March 2020* - Endava DevWeek
     * "React optimizations introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
