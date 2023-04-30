@@ -18,7 +18,7 @@ Saga - Frontend Developer *May 2013 / Jun 2017*
 * project New Transit Customs System (single page application, using REST api, CRUD forms and views): *2013 - 2014* - .NET, C#, Visual Studio, SQLServer, Microsoft Silverlight <b>- Dev</b>
 
 ### Computer Skills
-* Working knowledge and main interests: 
+* Main interests: 
 `Javascript, Web, React, Redux, Visual Studio Code`
 
 ## Education
@@ -35,19 +35,20 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 
 * Serbian native
 
-## Additional
-
+## Recommendations
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommendation%20from%20Vladimir%20Sivacki%20-%20ENDAVA.pdf" target="_blank">Recommendation Letter Vladimir Sivacki - ENDAVA</a>
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Recommendation Letter Dan Balescu - ADOBE</a>
+
+## Additional
 * Interviewer for Frontend candidates in Endava: *2019 - 2023* (more than 30 interviews)
 * Mentorship in Saga and Endava (more than 20 people in total)
-* Founder and leader of Belgrade Endava Frontend Community: *2020 - 2023* - FE Community events - presenter, organizer, trainer.
+* Founder and leader of Belgrade Endava Frontend Community: *2020 - 2023* - FE Community events - Speaker, organizer, trainer.
 * Speaker at conferences:
-    * "How to boost your Frontend development using Fake apis" *March 2020* - Endava DevWeek
+    * "How to boost your Frontend development using Fake APIs" *March 2020* - Endava DevWeek
     * "React optimizations introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
-* Attended at various conferences. e.g.
+* Attended at various conferences e.g.
    * [Armada JS 2022](https://armada-js.com/) Novi Sad
    * [CODEstantine 6 2022](https://codestantine.com/codestantine-6/) Nis 
 * Father of two
