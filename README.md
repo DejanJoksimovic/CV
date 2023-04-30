@@ -37,6 +37,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 
 ## Additional
 
+* <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommendation%20from%20Vladimir%20Sivacki%20-%20ENDAVA.pdf" target="_blank">Recommendation Letter Vladimir Sivacki - ENDAVA</a>
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Recommendation Letter Dan Balescu - ADOBE</a>
 * Interviewer for Frontend candidates in Endava: *2019 - 2023* (more than 30 interviews)
 * Mentorship in Saga and Endava (more than 20 people in total)
