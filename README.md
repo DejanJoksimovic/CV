@@ -48,6 +48,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Speaker at conferences:
     * "How to boost your Frontend development using Fake APIs" *March 2020* - Endava DevWeek
     * "React optimizations introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
+    * "Vue Js Router - How to maintan state between pages" *December 2023* - United.Cloud Meetup
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
 * Attended at various conferences e.g.
