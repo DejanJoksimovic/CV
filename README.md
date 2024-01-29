@@ -5,7 +5,7 @@
 ## Work experience
 
 United.Cloud - Senior Javascript developer *April 2023 / up to date*
-* project (streaming service application): *2023 / up to date* - `Javascript, Vue, Vuex` <b>- Dev, `Tech Lead`</b>
+* project (streaming service application): *2023 / up to date* - `Javascript, Vue, Vuex, jenkins` <b>- Dev, `Tech Lead`</b>
 
 Endava - Senior Frontend Developer *Jun 2017 / April 2023*
 * Adobe project (various plugins for customer products using external APIs): *2022 / 2023* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` <b>- Dev, `Line Manager, Tech Lead`</b>
@@ -51,9 +51,6 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
     * "Vue Js Router - How to maintan state between pages" *December 2023* - United.Cloud Meetup
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
-* Attended at various conferences e.g.
-   * [Armada JS 2022](https://armada-js.com/) Novi Sad
-   * [CODEstantine 6 2022](https://codestantine.com/codestantine-6/) Nis 
 * Father of two
 * Playing 6 and 7 string guitars and composing extreme heavy metal
 * Filmophile
