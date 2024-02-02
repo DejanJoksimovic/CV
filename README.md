@@ -49,8 +49,8 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Serbian native
 
 ## Recommendation Letters
-* <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommendation%20from%20Vladimir%20Sivacki%20-%20ENDAVA.pdf" target="_blank">Vladimir Sivacki (Head of Software Development) - ENDAVA</a>
-* <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Dan Balescu (Engineering Manager) - ADOBE</a>
+* <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommendation%20from%20Vladimir%20Sivacki%20-%20ENDAVA.pdf" target="_blank">Vladimir Sivacki - Head of Software Development at ENDAVA</a>
+* <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Dan Balescu - Engineering Manager at ADOBE</a>
 
 ## Additional
 * `Interviewer` for Frontend candidates in Endava and United.Cloud (more than 30 interviews)
