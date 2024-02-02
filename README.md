@@ -4,13 +4,13 @@
 
 ## Work experience
 
-UNITED.CLOUD - Senior JavaScript developer *April 2023 / up to date*
+<b>UNITED.CLOUD</b> - Senior JavaScript developer *April 2023 / up to date*
 * project: *2023 / up to date*
     - Description: Streaming service application
     - Position: Dev, `Tech Lead`
     - Tech stack: `Javascript, Vue, Vuex, Jest`, Jenkins
 
-ENDAVA - Senior Frontend Developer *Jun 2017 / April 2023*
+<b>ENDAVA</b> - Senior Frontend Developer *Jun 2017 / April 2023*
 * Adobe project: *2022 / 2023*
     - Description: Various plugins for customer products using external APIs
     - Position:  Dev, `Line Manager, Tech Lead`
@@ -24,7 +24,7 @@ ENDAVA - Senior Frontend Developer *Jun 2017 / April 2023*
     - Position: Dev
     - Tech stack: `Javascript`, AEM framework, IntelliJ, Java, SQL, Linux, macOS
 
-SAGA - Frontend Developer *May 2013 / Jun 2017*
+<b>SAGA</b> - Frontend Developer *May 2013 / Jun 2017*
 * project National Agency for Employment: *2016 / 2017*
     - Description: Single page application, lightweight, using REST API, CRUD forms and views
     - Position: Dev
