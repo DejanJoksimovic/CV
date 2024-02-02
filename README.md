@@ -2,7 +2,7 @@
 * joksimovic_d@yahoo.com
 * [LinkedIn](https://www.linkedin.com/in/dejan-joksimovi%C4%87-60a95782/)
 
-## Work experience
+## Experience
 
 <b>UNITED.CLOUD</b> - Senior JavaScript Developer *April 2023 / up to date*
 * EON TV platform: *2023 / up to date*
