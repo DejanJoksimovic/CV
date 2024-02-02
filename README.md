@@ -37,18 +37,22 @@ SAGA - Frontend Developer *May 2013 / Jun 2017*
     - Description: single page application, using REST api, CRUD forms and views
     - Position: Dev
     - Tech stack: .NET, C#, Visual Studio, SQLServer, Microsoft Silverlight
+
 ## Education
 *2007 / 2013*
 __Faculty of Organizational Sciences, *Informational System and Technologies, bachelor with honors*__
 
 *2003 / 2007*
 Electrotechnical High school "Nikola Tesla", *IT technician*
+
 ## Language
 * `English fluent`
 * Serbian native
+
 ## Recommendations
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommendation%20from%20Vladimir%20Sivacki%20-%20ENDAVA.pdf" target="_blank">Recommendation Letter Vladimir Sivacki - ENDAVA</a>
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Recommendation Letter Dan Balescu - ADOBE</a>
+
 ## Additional
 * Interviewer for Frontend candidates in:
    * Endava *2019 / 2023* (more than 30 interviews)
