@@ -57,9 +57,9 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Mentorship in Saga and Endava (more than 20 people in total)
 * Founder and leader of Belgrade Endava Frontend Community: *2020 / 2023* - FE Community events - speaker, organizer, trainer
 * Speaker at conferences:
-    * "How To Boost Your Frontend Development Using Fake APIs" *March 2020* - Endava DevWeek
-    * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
     * "Vue Js Router - How To Maintan State Between Pages" *December 2023* - United.Cloud Meetup
+    * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
+    * "How To Boost Your Frontend Development Using Fake APIs" *March 2020* - Endava DevWeek
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
 * Father of two
