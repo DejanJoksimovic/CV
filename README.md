@@ -4,41 +4,51 @@
 
 ## Work experience
 
-United.Cloud - Senior Javascript developer *April 2023 / up to date*
-* project (streaming service application): *2023 / up to date* - `Javascript, Vue, Vuex, jenkins` <b>- Dev, `Tech Lead`</b>
+UNITED.CLOUD - Senior JavaScript developer *April 2023 / up to date*
+* project: *2023 / up to date*
+    - Description: Streaming service application
+    - Position: Dev, `Tech Lead`
+    - Tech stack: `Javascript, Vue, Vuex, Jest`, Jenkins
 
-Endava - Senior Frontend Developer *Jun 2017 / April 2023*
-* Adobe project (various plugins for customer products using external APIs): *2022 / 2023* - `Javascript, Typescript, React, Redux, Hooks, MobX, Redux Saga, Google Apps Script, Java, Visual Studio Code, Eslint` <b>- Dev, `Line Manager, Tech Lead`</b>
-* Adobe project (single page application, lightweight, using REST api, CRUD forms and views): *2018 / 2022* - `Javascript, React, Redux, Hooks, Jest, Visual Studio Code, Eslint` <b>- Dev, `Team Lead (from 2020)`</b>
-* Adobe project (CRUD forms and views, using rest api): *2017 / 2018* - Javascript, AEM framework, InteliJ, Java, Sql, linux, macOs <b>- Dev</b>
+ENDAVA - Senior Frontend Developer *Jun 2017 / April 2023*
+* Adobe project: *2022 / 2023*
+    - Description: Various plugins for customer products using external APIs
+    - Position:  Dev, `Line Manager, Tech Lead`
+    - Tech stack: `Javascript, Typescript, React, Redux, React Hooks`, MobX, Redux Saga, Google Apps Script, Java, `Visual Studio Code`, ESLint
+* Adobe project: *2018 / 2022*
+    - Description: Single page application, lightweight, using REST API, CRUD forms and views
+    - Position: Dev, `Team Lead (from 2020)`
+    - Tech stack: `Javascript, React, Redux, React Hooks, Jest, Visual Studio Code`, ESLint
+* Adobe project: *2017 / 2018*
+    - Description: CRUD forms and views, using REST API
+    - Position: Dev
+    - Tech stack: `Javascript`, AEM framework, IntelliJ, Java, SQL, Linux, macOS
 
-Saga - Frontend Developer *May 2013 / Jun 2017*
-* project National Agency for Employment (single page application, lightweight, using REST api, CRUD forms and views): *2016 / 2017* - Javascript, React, Redux, Visual Studio Code, Flow, Eslint <b>- Dev</b>
-* project State Pension Fund (CRUD forms and views): *2015 / 2016* - ADF Framework, Java, JDeveloper, Oracle Database Management System - <b>- Dev</b>
-* project New Transit Customs System (single page application, using REST api, CRUD forms and views): *2013 - 2014* - .NET, C#, Visual Studio, SQLServer, Microsoft Silverlight <b>- Dev</b>
-
-### Computer Skills
-* Main interests: 
-`Javascript, Web, React, Redux, Visual Studio Code`
-
+SAGA - Frontend Developer *May 2013 / Jun 2017*
+* project National Agency for Employment: *2016 / 2017*
+    - Description: Single page application, lightweight, using REST API, CRUD forms and views
+    - Position: Dev
+    - Tech stack: `JavaScript, React, Redux, Visual Studio Code`, Flow, ESLint
+* project State Pension Fund: *2015 / 2016*
+    - Description: CRUD forms and views
+    - Position: Dev
+    - Tech stack: ADF Framework, Java, JDeveloper, Oracle Database Management System
+* project New Transit Customs System: *2013 - 2014*
+    - Description: single page application, using REST api, CRUD forms and views
+    - Position: Dev
+    - Tech stack: .NET, C#, Visual Studio, SQLServer, Microsoft Silverlight
 ## Education
-
 *2007 / 2013*
 __Faculty of Organizational Sciences, *Informational System and Technologies, bachelor with honors*__
 
 *2003 / 2007*
 Electrotechnical High school "Nikola Tesla", *IT technician*
-
 ## Language
-
 * `English fluent`
-
 * Serbian native
-
 ## Recommendations
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommendation%20from%20Vladimir%20Sivacki%20-%20ENDAVA.pdf" target="_blank">Recommendation Letter Vladimir Sivacki - ENDAVA</a>
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Recommendation Letter Dan Balescu - ADOBE</a>
-
 ## Additional
 * Interviewer for Frontend candidates in:
    * Endava *2019 / 2023* (more than 30 interviews)
@@ -52,6 +62,6 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
 * Father of two
-* Playing 6 and 7 string guitars and composing extreme heavy metal
+* Playing 6 and 7 string electric guitars and composing extreme heavy metal
 * Filmophile
 * proper touch typing ~50wpm
