@@ -4,7 +4,7 @@
 
 ## Work experience
 
-<b>UNITED.CLOUD</b> - Senior JavaScript developer *April 2023 / up to date*
+<b>UNITED.CLOUD</b> - Senior JavaScript Developer *April 2023 / up to date*
 * project: *2023 / up to date*
     - Description: Streaming service application
     - Position: Dev, `Tech Lead`
@@ -33,16 +33,15 @@
     - Description: CRUD forms and views
     - Position: Dev
     - Tech stack: ADF Framework, Java, JDeveloper, Oracle Database Management System
-* project New Transit Customs System: *2013 - 2014*
-    - Description: single page application, using REST api, CRUD forms and views
+* project New Transit Customs System: *2013 / 2014*
+    - Description: Single page application, using REST api, CRUD forms and views
     - Position: Dev
     - Tech stack: .NET, C#, Visual Studio, SQLServer, Microsoft Silverlight
 
 ## Education
-*2007 / 2013*
+- *2007 / 2013*
 __Faculty of Organizational Sciences, *Informational System and Technologies, bachelor with honors*__
-
-*2003 / 2007*
+- *2003 / 2007*
 Electrotechnical High school "Nikola Tesla", *IT technician*
 
 ## Language
@@ -58,14 +57,14 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
    * Endava *2019 / 2023* (more than 30 interviews)
    * United.Cloud *2023 / up to date*
 * Mentorship in Saga and Endava (more than 20 people in total)
-* Founder and leader of Belgrade Endava Frontend Community: *2020 - 2023* - FE Community events - Speaker, organizer, trainer.
+* Founder and leader of Belgrade Endava Frontend Community: *2020 / 2023* - FE Community events - speaker, organizer, trainer
 * Speaker at conferences:
-    * "How to boost your Frontend development using Fake APIs" *March 2020* - Endava DevWeek
-    * "React optimizations introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
-    * "Vue Js Router - How to maintan state between pages" *December 2023* - United.Cloud Meetup
+    * "How To Boost Your Frontend Development Using Fake APIs" *March 2020* - Endava DevWeek
+    * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
+    * "Vue Js Router - How To Maintan State Between Pages" *December 2023* - United.Cloud Meetup
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
 * Father of two
 * Playing 6 and 7 string electric guitars and composing extreme heavy metal
 * Filmophile
-* proper touch typing ~50wpm
+* Proper touch typing ~50wpm
