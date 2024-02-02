@@ -8,21 +8,21 @@
 * project: *2023 / up to date*
     - Description: Streaming service application
     - Position: Dev, `Tech Lead`
-    - Tech stack: `Javascript, Vue, Vuex, Jest`, Jenkins
+    - Tech stack: `JavaScript, Vue, Vuex, Jest`, Jenkins
 
 <b>ENDAVA</b> - Senior Frontend Developer *Jun 2017 / April 2023*
 * Adobe project: *2022 / 2023*
     - Description: Various plugins for customer products using external APIs
     - Position:  Dev, `Line Manager, Tech Lead`
-    - Tech stack: `Javascript, Typescript, React, Redux, React Hooks`, MobX, Redux Saga, Google Apps Script, Java, `Visual Studio Code`, ESLint
+    - Tech stack: `JavaScript, TypeScript, React, Redux, React Hooks`, MobX, Redux Saga, Google Apps Script, Java, `Visual Studio Code`, ESLint
 * Adobe project: *2018 / 2022*
     - Description: Single page application, lightweight, using REST API, CRUD forms and views
     - Position: Dev, `Team Lead (from 2020)`
-    - Tech stack: `Javascript, React, Redux, React Hooks, Jest, Visual Studio Code`, ESLint
+    - Tech stack: `JavaScript, React, Redux, React Hooks, Jest, Visual Studio Code`, ESLint
 * Adobe project: *2017 / 2018*
     - Description: CRUD forms and views, using REST API
     - Position: Dev
-    - Tech stack: `Javascript`, AEM framework, IntelliJ, Java, SQL, Linux, macOS
+    - Tech stack: `JavaScript`, AEM framework, IntelliJ, Java, SQL, Linux, macOS
 
 <b>SAGA</b> - Frontend Developer *May 2013 / Jun 2017*
 * project National Agency for Employment: *2016 / 2017*
