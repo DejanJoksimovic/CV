@@ -62,7 +62,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
     * "How To Boost Your Frontend Development Using Fake APIs" *March 2020* - Endava DevWeek
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * Framework trainer for client developers *March 2016*
-* Father of two
+* Married, Father of two
 * Playing 6 and 7 string electric guitars and composing extreme heavy metal
 * Filmophile
 * Proper touch typing ~50wpm
