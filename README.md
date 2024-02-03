@@ -61,7 +61,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
     * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
     * "How To Boost Your Frontend Development Using Fake APIs" *March 2020* - Endava DevWeek
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
-* Framework trainer for client developers *March 2016*
+* ADF Framework trainer for client developers *March 2016*
 * Married, Father of two
 * Playing 6 and 7 string electric guitars and composing extreme heavy metal
 * Filmophile
