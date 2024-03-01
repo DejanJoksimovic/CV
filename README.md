@@ -4,8 +4,11 @@
 
 ## Experience
 
-<b>UNITED.CLOUD</b> - Senior JavaScript Developer *April 2023 / up to date*
-* EON TV platform: *2023 / up to date*
+<b>ENDAVA</b> - Senior Frontend Developer *March 2024 / up to date*
+* Hitachi *2024 / up to date*
+
+<b>UNITED.CLOUD</b> - Senior JavaScript Developer *April 2023 / March 2024*
+* EON TV platform: *2023 / 2024*
     - Desc: Streaming service application
     - Role: Dev, `Tech Lead`
     - Tech: `JavaScript, Vue, Vuex, Jest`, Jenkins
