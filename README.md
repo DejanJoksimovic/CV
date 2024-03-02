@@ -5,7 +5,8 @@
 ## Experience
 
 <b>ENDAVA</b> - Senior Frontend Developer *March 2024 / up to date*
-* Hitachi *2024 / up to date*
+* Hitachi: *2024 / up to date*
+    - Tech: `TypeScript, React`
 
 <b>UNITED.CLOUD</b> - Senior JavaScript Developer *April 2023 / March 2024*
 * EON TV platform: *2023 / 2024*
