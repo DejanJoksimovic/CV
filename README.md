@@ -4,7 +4,7 @@
 
 ## Experience
 
-<b>ENDAVA</b> - Senior Frontend Developer *March 2024 / up to date*
+<b>ENDAVA</b> - Frontend Development Consultant *March 2024 / up to date*
 * Hitachi: *2024 / up to date*
     - Tech: `TypeScript, React`
 
@@ -58,8 +58,8 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 
 ## Additional
 * `Interviewer` for Frontend candidates in Endava and United.Cloud (more than 30 interviews)
-* `Mentorship` in Saga and Endava (more than 20 people in total)
-* `Founder and leader of Endava Serbia Frontend Community`: *2020 / 2023* - FE Community events - speaker, organizer, trainer
+* `Mentorship` (more than 25 people in total)
+* `Founder and leader of Endava Serbia Frontend Community`: *2020 / 2023* and active member *2024 / up to date* - FE Community events - speaker, organizer, trainer
 * Speaker at conferences:
     * "Vue Js Router - How To Maintan State Between Pages" *December 2023* - United.Cloud Meetup
     * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
@@ -69,4 +69,3 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Married, Father of two
 * Playing 6 and 7 string electric guitars and composing extreme heavy metal
 * Filmophile
-* Proper touch typing ~50wpm
