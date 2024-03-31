@@ -6,7 +6,9 @@
 
 <b>ENDAVA</b> - Frontend Development Consultant *March 2024 / up to date*
 * Hitachi: *2024 / up to date*
-    - Tech: `TypeScript, React`
+    - Desc: Field service management for asset-intensive industries
+    - Role: Dev, `Consultant`
+    - Tech: `TypeScript, React, Jest`, third party custom libraries
 
 <b>UNITED.CLOUD</b> - Senior JavaScript Developer *April 2023 / March 2024*
 * EON TV platform: *2023 / 2024*
@@ -57,9 +59,9 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Dan Balescu - Engineering Manager at ADOBE</a>
 
 ## Additional
-* `Interviewer` for Frontend candidates in Endava and United.Cloud (more than 30 interviews)
-* `Mentorship` (more than 25 people in total)
-* `Founder and leader of Endava Serbia Frontend Community`: *2020 / 2023* and active member *2024 / up to date* - FE Community events - speaker, organizer, trainer
+* `Interviewer` for Frontend candidates in Endava and United.Cloud
+* `Mentorship` (in all companies)
+* `Founder and leader of Endava Serbia Frontend Community`: *2020 / 2023* and *2024 / up to date* - FE Community events - speaker, organizer, trainer
 * Speaker at conferences:
     * "Vue Js Router - How To Maintan State Between Pages" *December 2023* - United.Cloud Meetup
     * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
