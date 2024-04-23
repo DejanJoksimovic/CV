@@ -69,5 +69,5 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * ADF Framework trainer for client developers *March 2016*
 * Married, Father of two
-* Playing 6 and 7 string electric guitars and composing extreme heavy metal
+* Playing 6 and 7 string electric guitars and composing extreme heavy metal <a href="https://dejanjoksimovic.github.io/MusicCV/" target="_blank">Music</a>
 * Filmophile
