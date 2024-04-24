@@ -63,6 +63,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * `Mentorship` (in all companies)
 * `Founder and leader of Endava Serbia Frontend Community`: *2020 / 2023* and *2024 / up to date* - FE Community events - speaker, organizer, trainer
 * Speaker at conferences:
+    * "React Router - Handle routes data using stateless protocol" *March 2024* - Endava Adriatic - Connect It Meetup
     * "Vue Js Router - How To Maintan State Between Pages" *December 2023* - United.Cloud Meetup
     * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
     * "How To Boost Your Frontend Development Using Fake APIs" *March 2020* - Endava DevWeek
