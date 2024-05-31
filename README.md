@@ -5,7 +5,9 @@
 ## Experience
 
 <b>ENDAVA</b> - Frontend Development Consultant *March 2024 / up to date*
-* Hitachi: *2024 / up to date*
+* Admiral car insurance: *2024 / up to date*
+
+* Hitachi: *March 2024 / Jun 2024*
     - Desc: Field service management for asset-intensive industries
     - Role: Dev, `Consultant`
     - Tech: `TypeScript, React, Jest`, third party custom libraries
