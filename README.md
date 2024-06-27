@@ -6,6 +6,9 @@
 
 <b>ENDAVA</b> - Frontend Development Consultant *March 2024 / up to date*
 * Admiral car insurance: *2024 / up to date*
+    - Desc: Insurance software
+    - Role: Dev
+    - 'TypeScript, React, Jest'
 
 * Hitachi: *March 2024 / Jun 2024*
     - Desc: Field service management for asset-intensive industries
