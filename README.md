@@ -1,6 +1,7 @@
 # Dejan Joksimovic
 * joksimovic_d@yahoo.com
 * [LinkedIn](https://www.linkedin.com/in/dejan-joksimovi%C4%87-60a95782/)
+* [Youtube](https://www.youtube.com/@low-riffs-and-frontend)
 
 ## Experience
 
