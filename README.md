@@ -7,32 +7,32 @@
 ## Experience
 
 <b>ENDAVA</b> - Frontend Development Consultant *March 2024 / up to date*
-* Admiral car insurance: *2024 / up to date*
+* Insurance: *2024 / up to date*
     - Desc: Insurance software
     - Role: Dev
     - Tech: `TypeScript, React, Jest`
 
-* Hitachi: *March 2024 / Jun 2024*
+* Asset industry: *March 2024 / Jun 2024*
     - Desc: Field service management for asset-intensive industries
     - Role: Dev, `Consultant`
     - Tech: `TypeScript, React, Jest`, third party custom libraries
 
 <b>UNITED.CLOUD</b> - Senior JavaScript Developer *April 2023 / March 2024*
-* EON TV platform: *2023 / 2024*
+* TV platform: *2023 / 2024*
     - Desc: Streaming service application
     - Role: Dev, `Tech Lead`
     - Tech: `JavaScript, Vue, Vuex, Jest`, Jenkins
 
 <b>ENDAVA</b> - Senior Frontend Developer *Jun 2017 / April 2023*
-* Adobe: *2022 / 2023*
+* Digital experience: *2022 / 2023*
     - Desc: Various plugins for customer products using external APIs
     - Role:  Dev, `Tech Lead, Line Manager`
     - Tech: `JavaScript, TypeScript, React, Redux, Jest`, MobX, Redux Saga, Google Apps Script, Java
-* Adobe: *2018 / 2022*
+* Digital experience: *2018 / 2022*
     - Desc: Single page application, lightweight, using REST API, CRUD forms and views
     - Role: Dev, `Team Lead (from 2020)`
     - Tech: `JavaScript, React, Redux, Jest`
-* Adobe: *2017 / 2018*
+* Digital experience: *2017 / 2018*
     - Desc: CRUD forms and views, using REST API
     - Role: Dev
     - Tech: `JavaScript`, AEM framework, IntelliJ, Java, SQL, Linux, macOS
