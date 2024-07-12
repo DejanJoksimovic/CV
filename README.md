@@ -10,7 +10,7 @@
 * Insurance: *2024 / up to date*
     - Desc: Insurance software
     - Role: Dev
-    - Tech: `TypeScript, React, Jest`
+    - Tech: `TypeScript, React, Jest`, nx, monorepo
 
 * Asset industry: *March 2024 / Jun 2024*
     - Desc: Field service management for asset-intensive industries
