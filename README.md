@@ -70,12 +70,13 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * `Mentorship` (in all companies)
 * `Founder and leader of Endava Serbia Frontend Community`: *2020 / 2023* and *2024 / up to date* - FE Community events - speaker, organizer, trainer
 * Speaker at conferences:
-    * "React Router - Handle routes data using stateless protocol" *March 2024* - Endava Adriatic - Connect It Meetup
+    * "Scalable React Applications" *November 2024* - Faculty Of Organizational Sciences - Endava guest speaker
+    * "React Router - Handle routes data using stateless protocol" *March 2024* - Endava Adriatic - Connect It Meetup, *November 2024* - [Heapcon 2024](https://heapcon.io/2024/speakers/dejan-joksimovic)
     * "Vue Js Router - How To Maintan State Between Pages" *December 2023* - United.Cloud Meetup
     * "React Optimizations Introduction" *May 2022* - [CODEstantine 6](https://codestantine.com/dejan-joksimovic/)
     * "How To Boost Your Frontend Development Using Fake APIs" *March 2020* - Endava DevWeek
 * React trainer for "Forum Of Young Disabled People" *September 2022* [FMI](https://fmi.rs/)
 * ADF Framework trainer for client developers *March 2016*
 * Married, Father of two
-* Playing 6 and 7 string electric guitars and composing extreme heavy metal <a href="https://dejanjoksimovic.github.io/MusicCV/" target="_blank">Music</a>
+* Playing 6, 7 and 8 string electric guitars and composing extreme heavy metal <a href="https://dejanjoksimovic.github.io/MusicCV/" target="_blank">Music</a>
 * Filmophile
