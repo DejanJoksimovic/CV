@@ -6,7 +6,7 @@
 
 ## Experience
 
-<b>ENDAVA</b> - Frontend Development Consultant *March 2024 / up to date*
+<b>ENDAVA</b> - Frontend Development Senior Consultant *March 2024 / up to date* (JS/TS Discipline Lead from *February 2025*)
 * Insurance: *2024 / up to date*
     - Desc: Insurance software
     - Role: Dev
