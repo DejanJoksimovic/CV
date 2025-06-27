@@ -66,6 +66,7 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * <a href="https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf" target="_blank">Dan Balescu - Engineering Manager at ADOBE</a>
 
 ## Additional
+* `Discipline Lead for JS and TS`: *2025 / up to date*
 * `Interviewer` for Frontend candidates in Endava and United.Cloud
 * `Mentorship` (in all companies)
 * `Founder and leader of Endava Serbia Frontend Community`: *2020 / 2023* and *2024 / up to date* - FE Community events - speaker, organizer, trainer
