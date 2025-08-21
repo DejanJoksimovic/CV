@@ -9,7 +9,7 @@
 <b>ENDAVA</b> - Frontend Development Senior Consultant *March 2024 / up to date* (JS/TS Discipline Lead from *February 2025*)
 * Insurance: *2024 / up to date*
     - Desc: Insurance software
-    - Role: Dev
+    - Role: Dev, `React MFE Specialist`
     - Tech: `TypeScript, React, Jest`, NestJS, nx, microfrontend architecture
 
 * Asset industry: *March 2024 / Jun 2024*
