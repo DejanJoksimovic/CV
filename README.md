@@ -81,3 +81,4 @@ Electrotechnical High school "Nikola Tesla", *IT technician*
 * Married, Father of two
 * Playing 6, 7 and 8 string electric guitars and composing extreme heavy metal <a href="https://dejanjoksimovic.github.io/MusicCV/" target="_blank">Music</a>
 * Filmophile
+* Occasional gamer
