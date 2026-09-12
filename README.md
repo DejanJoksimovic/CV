@@ -9,7 +9,7 @@
 * Insurance: *2024 / up to date*
     - Desc: Insurance software
     - Role: Dev, `React MFE Specialist` (React and Nest JS consultant), team lead, pager duty alert shifts, environment maintainer working on azure devops (pipelines, configurations and fixing issues)
-    - Tech: `TypeScript, React, Jest`, NestJS, nx, microfrontend architecture, azureDevops
+    - Tech: `TypeScript, React, Jest, Claude Code, Copilot, Python`, NestJS, nx, microfrontend architecture, azureDevops
 
 * Asset industry: *March 2024 / Jun 2024*
     - Desc: Field service management for asset-intensive industries
