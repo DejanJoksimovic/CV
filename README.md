@@ -1,6 +1,6 @@
 # Dejan Joksimovic
 
-**Senior Software Engineering Consultant | JavaScript & TypeScript Discipline Lead | AI Developer in Training**
+### Senior Software Engineering Consultant | JavaScript & TypeScript Discipline Lead | AI Developer in Training
 
 - Email: [joksimovic_d@yahoo.com](mailto:joksimovic_d@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/dejan-joksimovi%C4%87-60a95782/)
