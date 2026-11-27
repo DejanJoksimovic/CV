@@ -1,6 +1,6 @@
 # Dejan Joksimovic
 
-### Senior Software Engineering Consultant | JavaScript & TypeScript Discipline Lead | AI Developer in Training
+### Engineering & Delivery Leadership | Squad Lead | Technical Discipline Lead | Senior Consultant
 
 - Email: [joksimovic_d@yahoo.com](mailto:joksimovic_d@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/dejan-joksimovi%C4%87-60a95782/)
@@ -10,180 +10,41 @@
 
 ## Professional Summary
 
-Senior Software Engineering Consultant with over 13 years of professional experience in software development, technical leadership, architecture and consultancy.
+Engineering and delivery leader with over 13 years of professional experience in software engineering and leadership responsibilities dating back to 2020, encompassing team leadership, squad management, line management, technical consultancy and engineering discipline leadership.
 
-Specialized in JavaScript, TypeScript, React, scalable web applications and microfrontend architectures, with experience in backend development, enterprise integrations, DevOps and cloud-based environments.
+Currently operating as a Team Lead and Squad Lead within a complex enterprise insurance platform, leading a large engineering squad, coordinating cross-team communication and managing daily operational reporting.
 
-Experienced in leading engineering teams, managing technical disciplines, mentoring developers, conducting technical interviews and building engineering communities.
+Combines engineering leadership and delivery coordination with a strong technical background in enterprise software architecture, scalable web applications, backend services, system integrations, CI/CD pipelines and production operations.
 
-Currently expanding expertise into Artificial Intelligence, Machine Learning, Deep Learning and AI Engineering, with a focus on combining modern software architecture with intelligent, scalable and production-ready AI solutions.
+Experienced in supporting engineering execution throughout the software development lifecycle, facilitating collaboration between teams, resolving technical challenges and providing visibility into engineering activities.
 
-## Technical Skills
+Committed to engineering excellence, continuous improvement, team autonomy, sustainable delivery practices and the professional development of engineering teams.
 
-| Category | Technologies & Expertise |
+## Leadership & Delivery Highlights
+
+- **13+ years** of professional software engineering experience.
+- **Leadership experience since 2020**, including team leadership, technical leadership and line management.
+- **Team Lead and Squad Lead** within a large enterprise engineering environment.
+- **Cross-team delivery coordination** and daily operational reporting.
+- **JavaScript & TypeScript Discipline Lead** at Endava.
+- Experience across enterprise insurance, digital experience, streaming and public-sector platforms.
+- Experience with CI/CD pipelines, deployment environments, production support and incident response.
+- Founder and leader of the Endava Serbia Frontend Engineering Community.
+- Experienced technical speaker, trainer, mentor and interviewer.
+
+## Core Competencies
+
+| Area | Expertise |
 |---|---|
-| Programming Languages | JavaScript, TypeScript, Python, Java, C#, SQL |
-| Frontend Development | React, Vue.js, Redux, Redux Saga, MobX, Vuex |
-| Backend Development | NestJS, Node.js, REST APIs, .NET |
-| Software Architecture | Microfrontends, Monorepos, Nx, Single-Page Applications, Enterprise Integrations |
-| Testing | Jest, Unit Testing |
-| Cloud & DevOps | Azure DevOps, Jenkins, CI/CD Pipelines, Environment Management |
-| Data Science | NumPy, Pandas, Matplotlib, Data Analysis, Data Visualization |
-| Machine Learning | Scikit-learn, Regression, Classification, Clustering, Model Evaluation |
-| AI Development Tools | Claude Code, GitHub Copilot |
-| Databases | Oracle Database, Microsoft SQL Server |
-| Engineering Leadership | Technical Leadership, Discipline Management, Consultancy, Mentoring, Technical Interviewing |
-
-## Artificial Intelligence & Machine Learning
-
-### AI Developer Program
-
-*August 2026 – Present | Ongoing professional development*
-
-A structured six-month, hands-on learning program focused on Artificial Intelligence, Machine Learning, Deep Learning and production-oriented AI application development.
-
-#### Python & Software Development
-
-- Python programming and object-oriented programming
-- Functions, modules and reusable software components
-- Exception handling and debugging
-- File processing and JSON serialization
-- HTTP requests and REST API integration
-- Data structures and algorithmic problem-solving
-
-#### Data Science & Data Engineering Foundations
-
-- Numerical computing with NumPy
-- Data manipulation and analysis with Pandas
-- Data cleaning, transformation and preprocessing
-- Missing data and duplicate handling
-- Data aggregation, filtering and merging
-- Feature scaling and standardization
-- Exploratory data analysis
-- Data visualization with Matplotlib
-
-#### Machine Learning
-
-- Supervised and unsupervised learning
-- Linear and Polynomial Regression
-- Logistic Regression
-- Decision Trees and Random Forests
-- K-Means and DBSCAN clustering
-- Elbow Method and Silhouette Score
-- Training and testing datasets
-- Cross-validation and hyperparameter tuning
-- GridSearchCV
-- Model comparison and selection
-- Overfitting, underfitting and generalization
-- Model evaluation using MAE, MSE, R², Accuracy, Precision, Recall and F1 Score
-- Confusion matrices and classification reports
-
-#### Neural Networks
-
-- Artificial neurons, weights and biases
-- Neural network architecture fundamentals
-- ReLU and Sigmoid activation functions
-- Forward propagation
-- Loss functions
-- Gradient Descent and Stochastic Gradient Descent
-- Backpropagation and the chain rule
-- Learning rates, epochs and parameter optimization
-- Neural network training from scratch using Python
-
-#### Planned Curriculum – Deep Learning
-
-- Multilayer neural networks
-- Deep learning frameworks
-- Neural network training and optimization
-- Batch and mini-batch training
-- Regularization and overfitting prevention
-- Deep learning model evaluation
-- Convolutional Neural Networks (CNNs)
-- Sequence modeling and Transformer architecture fundamentals
-
-#### Planned Curriculum – Generative AI & Large Language Models
-
-- Generative AI fundamentals
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Transformer architecture and attention mechanisms
-- Tokenization and context windows
-- Prompt engineering
-- Embeddings and semantic similarity
-- LLM API integration
-- Structured outputs
-- Function calling and tool integration
-- LLM evaluation and performance optimization
-
-#### Planned Curriculum – Retrieval-Augmented Generation (RAG)
-
-- Retrieval-Augmented Generation architecture
-- Document ingestion and processing
-- Text chunking strategies
-- Embedding generation
-- Vector databases and vector search
-- Semantic and hybrid search
-- Retrieval optimization and reranking
-- Context-aware response generation
-- Source attribution and citations
-- Enterprise knowledge assistants
-
-#### Planned Curriculum – AI Agents & Agentic Systems
-
-- AI agent architecture
-- Tool calling and execution
-- Agent orchestration
-- Multi-step AI workflows
-- Model Context Protocol (MCP)
-- Agent memory and context management
-- Human-in-the-loop workflows
-- Enterprise system integration
-- Agent evaluation, reliability and security
-
-#### Planned Curriculum – AI Engineering & Deployment
-
-- Python backend development with FastAPI
-- AI-powered REST APIs
-- PostgreSQL and pgvector
-- Redis and caching strategies
-- Distributed systems fundamentals
-- Docker and containerization
-- Kubernetes fundamentals
-- CI/CD for AI applications
-- Azure-based AI application deployment
-- AI observability, logging and tracing
-- Model evaluation and monitoring
-- Latency, performance and cost optimization
-- AI application testing
-- Authentication and authorization
-- Prompt injection prevention
-- Responsible AI and AI security
-
-#### Planned Curriculum – AI Solution Architecture
-
-- Scalable AI application architecture
-- Enterprise AI integration patterns
-- AI system design
-- Data flow and deployment architecture
-- Architecture Decision Records (ADRs)
-- Reliability and fault tolerance
-- Security architecture and threat modeling
-- Infrastructure and operational cost estimation
-- Technical documentation
-- AI product development and technical roadmaps
-
-### Practical AI & Machine Learning Projects
-
-**Completed learning projects**
-
-- **Regression Model Analysis** – Implementation, evaluation and comparison of Linear and Polynomial Regression models using Scikit-learn.
-- **Classification Model Analysis** – Comparison and optimization of Logistic Regression, Decision Tree and Random Forest models.
-- **Unsupervised Learning Analysis** – Implementation and comparison of K-Means and DBSCAN clustering algorithms.
-- **Neural Network from Scratch** – Implementation of a trainable artificial neuron using Python, forward propagation, loss functions, backpropagation and gradient descent without machine learning frameworks.
-
-**Planned portfolio project**
-
-- **Enterprise AI Knowledge & Operations Assistant** – An integrated AI application combining LLMs, Retrieval-Augmented Generation, vector search, AI agents, enterprise integrations, security, evaluation, observability and cloud deployment.
+| Delivery Management | Engineering Delivery Coordination, SDLC, Squad Leadership, Operational Reporting |
+| Engineering Leadership | Team Management, Technical Leadership, Line Management, Discipline Leadership |
+| Cross-Team Collaboration | Inter-Team Communication, Engineering Alignment, Technical Coordination |
+| Operational Governance | Daily Reporting, Delivery Visibility, Production Support, Incident Response |
+| Engineering Excellence | Technical Standards, Software Quality, Maintainability, Engineering Best Practices |
+| DevOps & Release Engineering | CI/CD, Azure DevOps, Jenkins, Deployment Environments, Pipeline Troubleshooting |
+| Software Architecture | Enterprise Applications, Microfrontends, Monorepos, Backend Services, System Integrations |
+| People Development | Mentoring, Coaching, Technical Interviewing, Training, Capability Development |
+| Continuous Improvement | Engineering Enablement, Knowledge Sharing, Community Leadership, Developer Productivity |
 
 ---
 
@@ -197,38 +58,73 @@ A structured six-month, hands-on learning program focused on Artificial Intellig
 **JavaScript & TypeScript Discipline Lead**  
 *February 2025 – Present*
 
-#### Insurance Industry
+**Current Project Responsibilities:** Team Lead, Squad Lead, Technical Consultant
+
+#### Enterprise Insurance Platform
 
 *2024 – Present*
 
-Enterprise insurance software development and maintenance.
+Complex enterprise insurance software ecosystem involving scalable frontend applications, backend services, microfrontend architecture, system integrations and cloud-based deployment environments.
 
-**Responsibilities**
+##### Squad Leadership & Delivery Coordination
 
-- Senior software development and technical consultancy.
-- React microfrontend architecture specialization.
-- React and NestJS technical consultancy.
-- Technical and team leadership.
-- Application architecture and engineering support.
-- Azure DevOps environment maintenance, pipeline configuration and troubleshooting.
-- Production support and PagerDuty on-call responsibilities.
-- AI-assisted software development.
+- Lead a squad of approximately 12 people, combining team management, engineering coordination and technical leadership responsibilities.
+- Coordinate day-to-day engineering activities and support the squad's delivery objectives.
+- Manage cross-team communication, facilitating alignment and collaboration between engineering teams.
+- Prepare and manage daily team reports, providing visibility into engineering progress, team activities and operational status.
+- Act as a central point of coordination between the squad and other engineering teams.
+- Support the identification and resolution of technical and operational blockers affecting engineering execution.
+- Facilitate technical collaboration and knowledge sharing across team boundaries.
+- Provide guidance to team members, supporting professional development, technical decision-making and independent problem-solving.
+- Balance engineering delivery requirements with technical quality, maintainability and architectural considerations.
 
-**Technologies:** TypeScript, React, NestJS, Nx, Jest, Python, Microfrontend Architecture, Azure DevOps, Claude Code, GitHub Copilot.
+##### Technical Leadership & Architecture
 
-#### Asset Management Industry
+- Provide senior technical consultancy across React, TypeScript and NestJS-based enterprise applications.
+- Specialize in scalable React microfrontend architectures and Nx-based development environments.
+- Support architectural decisions, technical alignment and engineering best practices.
+- Provide technical guidance on complex software development and integration challenges.
+- Contribute to the development and maintenance of enterprise software systems.
+- Support engineering quality through testing, maintainability and modern software development practices.
+
+##### DevOps, Release Engineering & Production Operations
+
+- Maintain and troubleshoot Azure DevOps environments and CI/CD pipelines.
+- Support deployment processes, pipeline configuration and resolution of deployment-related issues.
+- Contribute to release readiness by addressing technical and environmental blockers.
+- Participate in production support and incident response through PagerDuty on-call responsibilities.
+- Support collaboration between engineering and operational activities throughout the software development lifecycle.
+- Utilize modern AI-assisted development tools to support engineering productivity.
+
+**Technical Environment:** TypeScript, JavaScript, React, Node.js, NestJS, Nx, Jest, Microfrontend Architecture, Azure DevOps, CI/CD, PagerDuty, Claude Code, GitHub Copilot.
+
+#### JavaScript & TypeScript Discipline Leadership
+
+*February 2025 – Present*
+
+- Lead the JavaScript and TypeScript technical discipline.
+- Support engineering capability development and professional growth.
+- Promote technical excellence, engineering standards and modern development practices.
+- Provide technical mentoring, consultancy and guidance to software engineers.
+- Support technical interviewing and assessment of engineering competencies.
+- Facilitate knowledge sharing and collaboration across engineering teams.
+- Lead engineering community initiatives and professional development activities.
+- Organize and deliver technical presentations, workshops and knowledge-sharing sessions.
+
+#### Asset Management Platform
 
 *March 2024 – June 2024*
 
-Field service management software for asset-intensive industries.
+Enterprise field service management software for asset-intensive industries.
 
-**Responsibilities**
+- Provided senior software engineering and technical consultancy.
+- Contributed to enterprise application development and maintenance.
+- Supported integration with third-party and custom software libraries.
+- Collaborated with engineering teams to resolve technical challenges.
 
-- Software development and technical consultancy.
-- Frontend application development.
-- Integration with third-party and custom libraries.
+**Technical Environment:** TypeScript, React, Jest, Third-party Integrations.
 
-**Technologies:** TypeScript, React, Jest, Third-party Libraries.
+---
 
 ### UNITED.CLOUD
 
@@ -237,140 +133,131 @@ Field service management software for asset-intensive industries.
 
 #### TV & Streaming Platform
 
-*2023 – 2024*
+Consumer-facing digital streaming service.
 
-Development of a streaming service application.
+- Provided technical leadership and senior engineering expertise within a product development environment.
+- Supported engineering execution, application development and maintenance.
+- Provided technical guidance and facilitated collaboration within the development team.
+- Contributed to technical decision-making and software quality.
+- Worked within a CI/CD-enabled engineering environment.
+- Participated in technical interviewing and engineering capability assessment.
+- Contributed to internal technical knowledge-sharing initiatives.
 
-**Responsibilities**
+**Technical Environment:** JavaScript, Vue.js, Vuex, Jest, Jenkins.
 
-- Senior frontend development.
-- Technical leadership.
-- Application development and maintenance.
-- Engineering collaboration and technical guidance.
-
-**Technologies:** JavaScript, Vue.js, Vuex, Jest, Jenkins.
+---
 
 ### ENDAVA
 
 **Senior Frontend Developer**  
 *June 2017 – April 2023*
 
-#### Digital Experience – Product Integrations
+**Additional Responsibilities:** Team Lead, Technical Lead, Line Manager
+
+#### Digital Experience – Enterprise Product Integrations
 
 *2022 – 2023*
 
-Development of plugins and integrations for customer products using external APIs.
+Development of plugins and integrations connecting customer products with external enterprise systems and APIs.
 
-**Responsibilities**
+- Combined senior engineering responsibilities with technical leadership and line management.
+- Provided technical direction and guidance to software engineers.
+- Supported engineering coordination and execution across product integration activities.
+- Contributed to the design and implementation of complex external API integrations.
+- Supported team members through mentoring, technical guidance and professional development.
+- Promoted engineering quality, maintainability and effective collaboration.
 
-- Senior software development.
-- Technical leadership.
-- Line management.
-- External API integration and plugin development.
+**Technical Environment:** JavaScript, TypeScript, React, Redux, Jest, MobX, Redux Saga, Google Apps Script, Java, External APIs.
 
-**Technologies:** JavaScript, TypeScript, React, Redux, Jest, MobX, Redux Saga, Google Apps Script, Java.
+#### Digital Experience – Web Applications
 
-#### Digital Experience – Single-Page Applications
+*2018 – 2022 | Team Leadership from 2020*
 
-*2018 – 2022*
+Development and maintenance of web applications and enterprise digital experiences.
 
-Development of lightweight single-page applications using REST APIs, CRUD operations and interactive user interfaces.
+- Assumed team leadership responsibilities alongside senior software engineering activities.
+- Supported the coordination of engineering activities and technical execution.
+- Provided technical guidance and mentoring to software developers.
+- Supported application development, maintenance and integration with backend services.
+- Promoted engineering best practices and maintainable software architecture.
+- Contributed to technical problem-solving and resolution of engineering challenges.
+- Supported knowledge sharing and professional development within the team.
 
-**Responsibilities**
-
-- Frontend application development.
-- Team leadership from 2020.
-- REST API integration.
-- Application maintenance and technical guidance.
-
-**Technologies:** JavaScript, React, Redux, Jest.
+**Technical Environment:** JavaScript, React, Redux, Jest, REST APIs.
 
 #### Digital Experience – Enterprise Applications
 
 *2017 – 2018*
 
-Development of enterprise applications involving CRUD forms, views and REST API integrations.
+- Developed and maintained enterprise software applications.
+- Contributed to enterprise application integrations and feature development.
+- Supported technical problem-solving within complex enterprise technology ecosystems.
 
-**Responsibilities**
+**Technical Environment:** JavaScript, Adobe Experience Manager (AEM), Java, SQL.
 
-- Software development.
-- Enterprise application integration.
-- Development and maintenance of application features.
-
-**Technologies:** JavaScript, Adobe Experience Manager (AEM), Java, SQL, IntelliJ IDEA, Linux, macOS.
+---
 
 ### SAGA
 
 **Frontend Developer**  
 *May 2013 – June 2017*
 
-#### National Agency for Employment
+Worked on enterprise and public-sector software systems, establishing a broad technical foundation across application development, enterprise integrations, backend technologies and databases.
 
-*2016 – 2017*
+#### Selected Projects
 
-Development of lightweight single-page applications using REST APIs, CRUD operations and interactive user interfaces.
+- **National Agency for Employment (2016 – 2017):** Web application development and REST API integration.
+- **State Pension Fund (2015 – 2016):** Enterprise application development and database integration.
+- **New Transit Customs System (2013 – 2014):** Enterprise application development and system integration.
 
-**Responsibilities:** Frontend development and REST API integration.
-
-**Technologies:** JavaScript, React, Redux, Flow.
-
-#### State Pension Fund
-
-*2015 – 2016*
-
-Development of enterprise applications involving CRUD forms and views.
-
-**Responsibilities:** Application development and database integration.
-
-**Technologies:** Oracle ADF, Java, JDeveloper, Oracle Database.
-
-#### New Transit Customs System
-
-*2013 – 2014*
-
-Development of a single-page customs management application using REST APIs, CRUD forms and views.
-
-**Responsibilities:** Application development and system integration.
-
-**Technologies:** .NET, C#, Visual Studio, Microsoft SQL Server, Microsoft Silverlight.
+**Technical Environment:** JavaScript, React, Redux, Java, Oracle ADF, Oracle Database, .NET, C#, Microsoft SQL Server.
 
 ---
 
-## Leadership & Engineering Community
+## Engineering Leadership & Community Development
 
-### JavaScript & TypeScript Discipline Lead
-
-*Endava | February 2025 – Present*
-
-- Technical discipline leadership.
-- Engineering knowledge sharing and professional development.
-- Technical mentoring and consultancy.
-
-### Founder & Leader – Endava Serbia Frontend Community
+### Founder & Leader – Endava Serbia Frontend Engineering Community
 
 *2020 – 2023 | 2024 – Present*
 
 - Founded and led an internal frontend engineering community.
-- Organized technical meetups and knowledge-sharing events.
-- Delivered technical presentations and training sessions.
-- Supported collaboration and professional development within the engineering community.
+- Established a platform for cross-team engineering collaboration and knowledge sharing.
+- Organized technical meetups, presentations and professional development initiatives.
+- Promoted engineering excellence and modern software development practices.
+- Encouraged collaboration and professional development beyond individual project teams.
+- Supported the development of an engineering culture focused on continuous learning and improvement.
 
-### Technical Interviewing
+### People Leadership & Capability Development
 
-*Endava & United.Cloud*
-
-- Technical interviews for frontend engineering candidates.
-- Assessment of technical knowledge and engineering competencies.
-
-### Mentoring
-
-- Mentoring and supporting software developers throughout professional engagements.
-- Technical guidance and engineering knowledge sharing.
-- Supporting professional growth and development within engineering teams.
+- Leadership and coordination of large engineering teams.
+- Line management and professional development support.
+- Technical mentoring and coaching.
+- Engineering capability development.
+- Technical interviewing and assessment.
+- Supporting engineers in developing autonomy and technical problem-solving capabilities.
+- Facilitating collaboration and knowledge sharing across engineering teams.
 
 ---
 
-## Public Speaking & Conferences
+## Technical Expertise
+
+| Category | Technologies & Expertise |
+|---|---|
+| Software Architecture | Enterprise Applications, Microfrontends, Monorepos, Nx, Scalable Web Applications, Enterprise Integrations |
+| Backend & Integrations | Node.js, NestJS, REST APIs, .NET, External API Integrations |
+| Frontend Engineering | React, Vue.js, Redux, MobX, Vuex |
+| DevOps & CI/CD | Azure DevOps, Jenkins, CI/CD Pipelines, Deployment Environment Management |
+| Software Quality | Jest, Unit Testing, Engineering Standards, Maintainability |
+| Production Operations | PagerDuty, Production Support, Incident Response, Troubleshooting |
+| Programming Languages | JavaScript, TypeScript, Python, Java, C#, SQL |
+| Databases | Oracle Database, Microsoft SQL Server |
+| Engineering Productivity | Claude Code, GitHub Copilot, AI-Assisted Development |
+
+---
+
+## Public Speaking & Engineering Evangelism
+
+Experienced technical speaker and trainer contributing to engineering conferences, universities, professional communities and internal engineering development initiatives.
 
 | Date | Presentation | Event |
 |---|---|---|
@@ -382,21 +269,19 @@ Development of a single-page customs management application using REST APIs, CRU
 | May 2022 | Introduction to React Optimizations | [CODEstantine 6](https://codestantine.com/dejan-joksimovic/) |
 | March 2020 | How to Boost Your Frontend Development Using Fake APIs | Endava DevWeek |
 
-## Training & Knowledge Sharing
+### Technical Training
 
-### React Trainer
-
-*September 2022*
-
-Delivered React training for the [Forum of Young Disabled People (FMI)](https://fmi.rs/).
-
-### Oracle ADF Trainer
-
-*March 2016*
-
-Delivered Oracle ADF Framework training for client-side software developers.
+- **React Trainer (2022):** Delivered React training for the [Forum of Young Disabled People (FMI)](https://fmi.rs/).
+- **Oracle ADF Trainer (2016):** Delivered technical training for client-side software developers.
 
 ---
+
+## Continuing Professional Development
+
+**Artificial Intelligence & AI Engineering**  
+*August 2026 – Present*
+
+Ongoing professional development in Python, Machine Learning, Deep Learning and AI Engineering, with an interest in applying emerging technologies to enterprise software solutions and engineering productivity.
 
 ## Education
 
@@ -417,15 +302,7 @@ Information Technology Technician
 - **English:** Fluent
 - **Serbian:** Native
 
-## Recommendation Letters
+## Professional Recommendations
 
 - [Vladimir Sivacki – Head of Software Development at Endava](https://github.com/DejanJoksimovic/CV/raw/master/Recommendation%20from%20Vladimir%20Sivacki%20-%20ENDAVA.pdf)
 - [Dan Balescu – Engineering Manager at Adobe](https://github.com/DejanJoksimovic/CV/raw/master/Recommandation%20from%20Dan%20Balescu%20-%20ADOBE.pdf)
-
-## Personal Interests
-
-- Music composition and playing six-, seven- and eight-string electric guitars – [Music Portfolio](https://dejanjoksimovic.github.io/MusicCV/)
-- Extreme heavy metal music
-- Cinema and cinematography
-- Gaming
-- Family life – married and father of three
